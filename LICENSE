@@ -4,7 +4,8 @@ Copyright (c) 2026 yuchen486
 
 This license applies to the website's program code. It does not apply to the
 literary story text or quoted personal conversations, including the narrative
-content in story.js and 相识以后.md.
+content in story.js, 话到这里.md and 相识以后.md. Third-party photography in
+assets/ is separately licensed under the Unsplash License, as credited in README.md.
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
